@@ -6,8 +6,7 @@ public class Main {
         System.out.println("miguel angel nieto rodriguez");
         System.out.println("jugar videosjuegos");
         System.out.println("basquetball");
-
-
+        System.out.println("Perro: Abeja");
 
     }
 }
