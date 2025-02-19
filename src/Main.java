@@ -4,8 +4,9 @@ public class Main {
         System.out.println("Hola Mundo");
 
         System.out.println("Abraham Ospina Villa");
-        System.out.println("Ver peliculas");
+        System.out.println("Ver películas");
         System.out.println("Judo");
+        System.out.println("Gata: Gata");
 
 
 
