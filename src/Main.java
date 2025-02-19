@@ -5,7 +5,8 @@ public class Main {
 
         System.out.println("YULIAN ANDRES DIAZ GARZON");
         System.out.println("Dibujar");
-        System.out.println("Futbol sala);
+        System.out.println("Futbol sala");
+                System.out.println("Gato: Trixy");
 
 
 
