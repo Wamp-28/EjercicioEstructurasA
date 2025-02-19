@@ -6,6 +6,7 @@ public class Main {
         System.out.println("WILLIAM ALEXANDER MATALLANA PORRAS");
         System.out.println("LEER");
         System.out.println("PADEL");
+        System.out.println("PERRO: SIMONA");
 
 
     }
