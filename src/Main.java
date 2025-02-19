@@ -5,7 +5,7 @@ public class Main {
 
       System.out.println("Tomas salcedo");
       System.out.println("Jugar videojuegos");
-        System.out.println("Jugar videojuegos");
+        System.out.println("Volley");
 
         System.out.println("gata:Fiona");
 
