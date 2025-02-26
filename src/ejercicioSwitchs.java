@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class ejercicioSwitchs {
     public static void main(String[] args) {
         Scanner escaner = new Scanner(System.in);
 
@@ -13,7 +13,7 @@ public class Main{
 
         if (eleccion == 1){
 
-            double notaFinal = 0;
+            double notaFinal;
             switch (materia) {
                 case 1:
                     notaFinal = 4.1;
