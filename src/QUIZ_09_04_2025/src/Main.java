@@ -15,7 +15,7 @@ public class Main {
                     "Seleccione una opción: ");
 
             int opcion = scanner.nextInt();
-            scanner.nextLine(); // Limpiar salto de línea
+            scanner.nextLine();
 
             if (opcion == 1) {
                 System.out.println("\nSeleccione un candidato:");
@@ -24,7 +24,7 @@ public class Main {
                 }
                 System.out.print("Número del candidato: ");
                 int candidato = scanner.nextInt() - 1;
-                scanner.nextLine(); // Limpiar salto de línea
+                scanner.nextLine();
                 System.out.print("Medio de influencia (Internet, Radio, TV): ");
                 String medio = scanner.nextLine();
                 elecciones.votar(candidato, medio);
